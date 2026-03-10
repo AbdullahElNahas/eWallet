@@ -1,0 +1,10 @@
+#Security
+.env
+
+#python
+**__pycache__/
+*.pyc
+*$py.class
+
+#IDE settings
+.vscode/
